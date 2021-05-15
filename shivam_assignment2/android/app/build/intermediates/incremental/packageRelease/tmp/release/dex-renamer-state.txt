@@ -1,0 +1,4 @@
+#Sat May 15 08:08:56 IST 2021
+base.0=/Users/Shivam/Downloads/shivam_assignment_2/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
